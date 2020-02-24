@@ -1,4 +1,4 @@
 ### comments
 .idea/
-.venv/
+venv/
 *.iml
