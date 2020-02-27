@@ -2,4 +2,9 @@
 .idea/
 venv/
 *.iml
+<<<<<<< HEAD
 *.swp
+=======
+.ipynb_checkpoints/
+
+>>>>>>> c27e44e1fee475265a96a32ef8b9418d99a914f7
